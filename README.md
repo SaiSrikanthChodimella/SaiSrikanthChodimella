@@ -25,17 +25,27 @@ I am a passionate .NET developer with **5 years** of experience in building **sc
 
 ## 🏆 Work Experience  
 
-### 🚀 .NET Software Engineer  
-🔹 Modernized Windows applications with **UX and performance enhancements**.  
-🔹 Developed a **Digital Twin communication module** to simulate real-world systems.  
-🔹 Refactored applications using **SOLID principles, MVVM, and MVC**.  
-🔹 Implemented unit tests with **xUnit, NUnit, and Moq**.  
-🔹 Worked in an Agile environment with **Azure DevOps & Git**.  
+## Software Development for Simulation of Angiography Devices & Digital Twin
 
-### 🏪 E-Commerce Developer  
-🔹 Developed **voucher and discount campaign modules** for seasonal promotions.  
-🔹 Automated **sales reporting**, reducing manual effort by **10 hours/week**.  
-🔹 Designed **secure Web APIs** and optimized SQL queries for **high performance**.  
+- Implemented a Recently Used Files menu to enhance workflow efficiency.
+- Redesigned forms for a fully responsive user interface.
+- Refactored and optimized code using SOLID principles, MVVM/MVC, and design patterns, improving maintainability and scalability.
+- Identified and resolved critical bugs while increasing unit test coverage with NUnit and Moq, enhancing stability.
+- Developed a Digital Twin communication module to support real-world system simulations for better testing and validation.
+- Optimized 3D CAD models to improve rendering efficiency and seamless integration with simulations.
+
+---
+
+## E-Commerce Engine Development
+
+- Developed web pages to manage vouchers and discount campaigns, improving promotional workflows.
+- Built an automated reporting system to track and share sales figures across multiple retail locations.
+- Automated repetitive tasks, reducing manual effort by 10 hours per week.
+- Designed and implemented secure web APIs to support new retail shop integrations.
+- Optimized SQL stored procedures and queries for better performance and readability.
+- Developed C# components for a three-tier application, integrating with SQL Server using ADO.NET and Entity Framework.
+- Improved code maintainability by rewriting existing logic using LINQ.
+
 
 ---
 ## ⌛ Currently building 
@@ -59,7 +69,7 @@ I am a passionate .NET developer with **5 years** of experience in building **sc
 
 ## 🌍 Connect With Me  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?logo=linkedin)](https://www.linkedin.com/in/sai-srikanth-chodimella)  
-[![Portfolio](https://img.shields.io/badge/Portfolio-Website-orange?logo=web)](https://saisrikanthchodimella.azurewebsites.net)  
+[![Portfolio](https://img.shields.io/badge/Portfolio-Website-orange?logo=web)](https://saisrikanthchodimella.github.io/ReactPortfolio/)  
 [![Azure DevOps](https://img.shields.io/badge/AzureDevOps-Projects-blue?logo=azuredevops)](https://dev.azure.com/srikanthchodimella/MonsterBuilder)  
 
 📫 **Email:** saisrikanthchodimella@gmail.com  
