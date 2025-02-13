@@ -4,7 +4,7 @@
 ## 🌟 About Me  
 I am a passionate .NET developer with **5 years** of experience in building **scalable, high-performance applications** across Web, Microservices, Desktop, and Mobile platforms. I specialize in crafting innovative solutions following **modern architectural principles** and **best coding practices**.
 
-🔹 **Tech Focus:** .NET 8, Blazor, WPF, ASP.NET Core, MAUI, Entity Framework Core  
+🔹 **Tech Focus:** .NET 8,React JS, Blazor, WPF, ASP.NET Core, SQL and Entity Framework Core  
 🔹 **Areas of Interest:** AI, Digital Twin Simulation, Software Architecture, Cloud Computing  
 🔹 **Work Style:** Agile methodologies, CI/CD, DevOps  
 
@@ -12,15 +12,15 @@ I am a passionate .NET developer with **5 years** of experience in building **sc
 
 ## 💻 Technical Skills  
 
-| Category              | Technologies |
-|----------------------|-------------|
-| **Languages**       | C#, SQL, JavaScript, XAML, HTML, CSS |
-| **Frameworks**      | .NET 8, Blazor, WPF, ASP.NET Core, MAUI |
-| **Databases**       | SQL Server, Entity Framework Core, Azure SQL |
-| **Cloud & DevOps**  | Azure DevOps, Git, CI/CD |
-| **Testing**         | xUnit, NUnit, Moq |
-| **Tools**          | Visual Studio, Postman, Azure Data Studio |
-
+| Category               | Technologies/Tools                                                                 |
+|------------------------|-----------------------------------------------------------------------------------|
+| **Programming Languages** | C#, JavaScript, SQL, XAML, HTML, CSS                                             |
+| **.NET Frameworks**      | .NET 8, .NET Framework 4.8+ (Legacy)                                             |
+| **.NET Technologies**    | ASP.NET Core, Entity Framework Core, LINQ, WPF, Windows Forms, MAUI, Blazor      |
+| **Libraries**            | React JavaScript                                                                  |
+| **CSS Frameworks**       | Tailwind, Blazor                                                                  |
+| **Testing Frameworks**   | xUnit, NUnit, Moq                                                                 |
+| **Development Tools**    | Visual Studio, SQL Server Management & Azure Data Studio, CI/CD with Azure DevOps, Azure Cloud Services, Git |
 ---
 
 ## 🏆 Work Experience  
