@@ -8,8 +8,6 @@ I am a passionate .NET developer with **5 years** of experience in building **sc
 🔹 **Areas of Interest:** AI, Digital Twin Simulation, Software Architecture, Cloud Computing  
 🔹 **Work Style:** Agile methodologies, CI/CD, DevOps  
 
-
-
 ###
 
 <div align="left">
@@ -96,10 +94,21 @@ I am a passionate .NET developer with **5 years** of experience in building **sc
 ## 🔥 Notable Projects  
 
 ### 🛠 **Full Stack Web Application**  
-✅ Built a **Blazor Web App** with a **Minimal API backend** in .NET 8  
-✅ Used **Entity Framework Core** for Azure SQL Database  
-✅ Developed Unit & Integration tests with **xUnit & Moq**  
+- ✅ Renders a 2D Monster using  **Skia Sharp**
+- ✅ Built a **Blazor Web App** with a **Minimal API backend** in .NET 8  
+- ✅ Used **Entity Framework Core** for Azure SQL Database 
+- ✅ Developed Unit & Integration tests with **xUnit & Moq** 
+- ✅ Deployed on **Azure App Service**
 
+#### 👉 **Documentation:** [Azure Repo](https://dev.azure.com/srikanthchodimella/MonsterBuilder/_git/MonsterBuilderManager)
+#### 👉 **Live Page:** [MonsterBuilder](https://monsterbuildermanager.azurewebsites.net/)
+
+### 🛠 **A growing handbook to simplify C# and .NET concepts**  
+- ✅ Built using **React & React Router**.  
+- ✅ Used **Tailwind CSS** for Responsive UI 
+- ✅ Deployed on **GitHub Pages**  
+
+#### 👉 **Live Page:** [LearnCSharp](https://saisrikanthchodimella.github.io/LearnCSharp) 
 ---
 
 ## 📜 Certifications  
@@ -125,7 +134,7 @@ I am a passionate .NET developer with **5 years** of experience in building **sc
 
 ###
 
-📫 **Email:** saisrikanthchodimella@gmail.com  
+#### 📫 **Email:** saisrikanthchodimella@gmail.com  
 ---
 
 ⭐ **If you find my work helpful, consider giving a star to my repositories!** 🚀  
