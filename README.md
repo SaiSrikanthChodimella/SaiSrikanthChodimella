@@ -1,13 +1,13 @@
-# 👋 Hi, I'm Srikanth!  
+# 👋 Hi, I'm Srikanth! 
 🚀 .NET Software Developer | Full Stack Engineer | Tech Enthusiast  
 
-## 🌟 About Me  
+## 🌟 About Me   [![Portfolio](https://img.shields.io/badge/Portfolio-Website-orange?logo=web)](https://saisrikanthchodimella.github.io/ReactPortfolio/)  
 I am a passionate .NET developer with **5 years** of experience in building **scalable, high-performance applications** across Web, Microservices, Desktop, and Mobile platforms. I specialize in crafting innovative solutions following **modern architectural principles** and **best coding practices**.
 
 🔹 **Tech Focus:** .NET 8,React JS, Blazor, WPF, ASP.NET Core, SQL and Entity Framework Core  
 🔹 **Areas of Interest:** AI, Digital Twin Simulation, Software Architecture, Cloud Computing  
 🔹 **Work Style:** Agile methodologies, CI/CD, DevOps  
-
+ 
 ###
 
 <div align="left">
@@ -117,8 +117,6 @@ I am a passionate .NET developer with **5 years** of experience in building **sc
 ---
 
 ## 🌍 Connect With Me  
- 
-[![Portfolio](https://img.shields.io/badge/Portfolio-Website-orange?logo=web)](https://saisrikanthchodimella.github.io/ReactPortfolio/)  
 
 <div align="left">
   <a href="https://dev.azure.com/srikanthchodimella/MonsterBuilder" target="_blank" rel="noreferrer">
